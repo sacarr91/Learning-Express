@@ -1,0 +1,28 @@
+{
+  "name": "stanleys-express-demo",
+  "version": "1.0.0",
+  "description": "learning Express with Stanley Lewis",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sacarr91/learning-express.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Stephanie via Stanley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sacarr91/learning-express/issues"
+  },
+  "homepage": "https://github.com/sacarr91/learning-express#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "uuid": "^10.0.0"
+  }
+}
